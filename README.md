@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @davidescalzo
-- 👀 I’m interested in philosophy, web development and videogames
-- 🌱 I’m currently learning php and mysql
+- 🌱 I’m currently learning php
 - 📫 How to reach me: dave.scalzo95@gmail.com
 
 <!---
